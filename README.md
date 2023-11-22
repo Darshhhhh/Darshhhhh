@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Darshhhhh </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=22EBF7&size=25&center=true&lines=Frontend+Developer🚀;Digital+Content+Creator🐱‍💻;VFX+enthusiast💻..."/>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Darshhh </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=22EBF7&size=25&center=true&lines=Full-Stack+Developer🚀;Blockchain🔗;VFX+enthusiast💻..."/>
 </div>
 
 <div align="center">
